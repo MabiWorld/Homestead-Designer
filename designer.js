@@ -1,0 +1,3 @@
+function showDesigner() {
+	$(".designer").show();
+}
